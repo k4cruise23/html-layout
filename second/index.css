@@ -44,8 +44,8 @@ body{
     width: 80%;
     height: 120px;
     background-color: lightyellow;
-    box-shadow: 1px 1px 10px 10px;
-    padding: 10px;
+    box-shadow: 10px 10px 5px 0px;
+    margin: 20px 50px 20 px 50px
 }
 
 .third-container {

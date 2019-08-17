@@ -1,0 +1,53 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    height: 100px;
+    width: 100%;
+    background-color: grey;
+}
+
+.box {
+    height: 80px;
+    width: 80px;
+    background-color: lightblue;
+    margin: 20px 10px 10px 10px;
+}
+
+.text-box {
+    height: 200px;
+    width: 100%;
+    padding: 50px;
+    box-sizing: border-box;
+}
+
+.text {
+    text-align: center;
+    font-size: 30px;
+}
+
+.first-row {
+    height: 150px;
+    width: 100%;
+    background-color: rgb(60, 60, 245);
+}
+
+.second-row {
+    height: 150px;
+    width: 100%;
+    background-color: rgb(100, 216, 204);
+}
+
+.third-row {
+    height: 150px;
+    width: 100%;
+    background-color: rgb(134, 209, 134);
+}
+
+.fourth-row {
+    height: 150px;
+    width: 100%;
+    background-color: yellow;
+}
